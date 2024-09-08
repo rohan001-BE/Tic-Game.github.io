@@ -15,7 +15,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('https://github.com/rohan001-BE/Tic-Game.github.io/blob/d0e2f9de9ea14ddc0b1d945bcad549085f950af4/2.jpg') no-repeat center center fixed;
+    background: url('') no-repeat center center fixed;
     background-size: cover;
     opacity: 0.4; /* Reduce the visibility of the background image */
     z-index: -2;
